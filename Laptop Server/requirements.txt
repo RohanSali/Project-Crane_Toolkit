@@ -1,0 +1,32 @@
+# Core Libraries
+opencv-python
+numpy
+pillow
+
+# Machine Learning (Choose based on your model framework)
+torch
+torchvision
+# or, if you're using TensorFlow:
+# tensorflow
+
+# 3D Visualization
+open3d
+matplotlib
+
+# Serial Communication
+pyserial
+
+# For Camera and Video Stream Handling
+imagezmq
+imutils
+
+# Networking
+flask
+flask-socketio
+
+# Optional: For better debugging/logging
+loguru
+
+# Optional: For data handling and UI support
+requests
+scipy
