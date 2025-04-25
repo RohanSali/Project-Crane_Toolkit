@@ -1,0 +1,10 @@
+﻿"Symbol";"Value";"Unit";
+"TraceParts.PartNumber";"32-15082006-064943";"";
+"REFERENCE";"228.502.000";"";
+"TraceParts.PartTitle";"WINKEL Rack Modul 2 TYPE ZS 2 length: 1.998,05 mm, not hardened";"";
+"TraceParts.InstanceId";"32-15082006-0649437C8T36G7VEL97IX9X50I5I4JJ";"";
+"REFERENCE1";"Modul 2";"";
+"SUPPLIER";"WINKEL";"";
+"DESIGN";"WINKEL Rack Modul 2 TYPE ZS 2 length: 1.998,05 mm, not hardened";"";
+"TraceParts.PartVersion";"1.4.7";"";
+"TraceParts.PartLanguage";"en";"";
