@@ -1,0 +1,6 @@
+[submodule "Crane_Android_App"]
+	path = Crane_Android_App
+	url = https://github.com/RohanSali/CraneTrain.git
+[submodule "Crane_Website"]
+	path = Crane_Website
+	url = https://github.com/868Rahul/Crane-Advancement.git
