@@ -5,3 +5,6 @@
 	path = Crane_Website
 	url = https://github.com/868Rahul/Crane-Advancement.git
 	
+[submodule "Laptop_server"]
+	path = Laptop_server
+	url = https://github.com/RohanSali/Project-Crane_Toolkit.git
